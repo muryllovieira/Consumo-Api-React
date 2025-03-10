@@ -2,13 +2,13 @@
   "expo": {
     "name": "consumo-api",
     "slug": "consumo-api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Lambo.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/logo.png",
+      "image": "./assets/Lambo.png",
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
@@ -21,13 +21,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "icon":  "./assets/Lambo.png",
+        "foregroundImage": "./assets/Lambo.png",
+        "backgroundColor": "#7b7b7b"
       },
       "package": "com.muryllovieira.consumoapi"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "../assets/Lambo.png"
     },
     "extra": {
       "eas": {

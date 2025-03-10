@@ -37,8 +37,9 @@ export const styles = StyleSheet.create({
         // justifyContent: 'center',
         // alignItems: 'center',
         marginBottom: 10,
+        borderRadius: 8,
         width: '100%',
-        height: '100%'
+        resizeMode: 'contain'
     },
     priceLabelContainer:{
         flexDirection: 'row',
